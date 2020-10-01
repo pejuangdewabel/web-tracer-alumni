@@ -1,0 +1,104 @@
+body {
+  background-color: #ffffff;
+  font-family: 'Assistant', sans-serif;
+  color: #04488d;
+}
+
+.navbar-brand img {
+  max-height: 70px;
+}
+
+.navbar-brand strong {
+  color: #04488d;
+  margin-left: 10px;
+  margin-top: 100px;
+  font-family: 'Assistant', sans-serif;
+  font-weight: 800;
+  font-display: swap;
+  font-style: normal;
+}
+
+.btn-navbar-right {
+  margin-top: -10px !important;
+  margin-bottom: -8px !important;
+  margin-right: -4px !important;
+  border-radius: 0;
+}
+
+.judul {
+  margin-top: -10px !important;
+  margin-bottom: -8px !important;
+  margin-right: -18px !important;
+}
+
+.btn-login {
+  background-color: #04488d;
+  color: #fff;
+  font-weight: 600;
+}
+
+.btn-login:hover {
+  background-color: #0e71d4;
+  color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #04488d;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  font-weight: 700;
+  color: #04488d !important;
+}
+
+header {
+  background-size: cover;
+}
+
+.card-judul {
+  color: white !important;
+  font-family: 'Assistant', sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+footer {
+  font-family: 'Assistant', sans-serif;
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.tentang .card-title {
+  font-family: 'Assistant', sans-serif !important;
+  font-weight: 400;
+}
+
+.tentang .card-body {
+  font-family: 'Assistant', sans-serif !important;
+  font-weight: 200;
+  color: white;
+  background-color: #04488d;
+  letter-spacing: 2px;
+}
+
+.logo {
+  background-color: white;
+}
+
+.card-berita .card-title {
+  font-family: 'Assistant', sans-serif !important;
+  font-weight: 200;
+}
+
+.card-berita .img-berita {
+  height: 100px;
+  width: 100px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.img-detail {
+  max-height: 100%;
+  max-width: 100%;
+}
+/*# sourceMappingURL=main.css.map */
